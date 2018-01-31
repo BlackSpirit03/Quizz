@@ -1,0 +1,1004 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"strt",
+				"strtoupper"
+			],
+			[
+				"ele",
+				"elemOfTab"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"var",
+				"varEffectif"
+			],
+			[
+				"array_ke",
+				"array_key_exists"
+			],
+			[
+				"el",
+				"elemOfTab"
+			],
+			[
+				"lin",
+				"lineOfFile"
+			],
+			[
+				"array",
+				"array_push"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"nbr",
+				"nbrDeElements"
+			],
+			[
+				"nom",
+				"nomDeZone"
+			],
+			[
+				"remo",
+				"removeChild\t( child: Node ): Node Node"
+			],
+			[
+				"fla",
+				"flagRemove"
+			],
+			[
+				"flag",
+				"flagWinLoose"
+			],
+			[
+				"tabCode",
+				"tabCodeATester"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"code",
+				"codeATrouver"
+			],
+			[
+				"tab",
+				"tabCodeNavette"
+			],
+			[
+				"align",
+				"align-self"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"c",
+				"center"
+			],
+			[
+				"ali",
+				"text-align"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"head",
+				"header\tTag"
+			],
+			[
+				"ligh",
+				"lightgray"
+			],
+			[
+				"gr",
+				"gray"
+			],
+			[
+				"bor",
+				"border-top"
+			],
+			[
+				"emp",
+				"text-emphasis"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"col",
+				"col-lg-8 \tBootstrap 4 Class"
+			],
+			[
+				"btn-grou",
+				"btn-group-sm \tBootstrap 4 Class"
+			],
+			[
+				"btn-group",
+				"btn-group-lg \tBootstrap 4 Class"
+			],
+			[
+				"removeC",
+				"removeClass"
+			],
+			[
+				"moue",
+				"mouseover"
+			],
+			[
+				"col-lg-",
+				"col-lg-2 \tBootstrap 4 Class"
+			],
+			[
+				"alig",
+				"align-self-auto \tBootstrap 4 Class"
+			],
+			[
+				"m",
+				"m-1 \tBootstrap 4 Class"
+			],
+			[
+				"mx",
+				"mx-auto \tBootstrap 4 Class"
+			],
+			[
+				"im",
+				"align-items-md-center \tBootstrap 4 Class"
+			],
+			[
+				"justif",
+				"justify-content-center \tBootstrap 4 Class"
+			],
+			[
+				"nav",
+				"navbar \tBootstrap 4 Class"
+			],
+			[
+				"co",
+				"col-lg-6 \tBootstrap 4 Class"
+			],
+			[
+				"person",
+				"personne1"
+			],
+			[
+				"localS",
+				"localStorage"
+			],
+			[
+				"on",
+				"onload\t: EventHandler FileReader"
+			],
+			[
+				"loca",
+				"localStorage\t: Storage Window"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"setI",
+				"setItem\t( key: DOMString, value: DOMString ): void Storage"
+			],
+			[
+				"local",
+				"localStorage"
+			],
+			[
+				"get",
+				"getItems\t( typeNames?: DOMString ): NodeList Document"
+			],
+			[
+				"obj",
+				"Object\t( value?: any ): Object Object"
+			],
+			[
+				"arra",
+				"Array\t( size: int ): Array Array"
+			],
+			[
+				"jal",
+				"jalerte2"
+			],
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"getE",
+				"getElementsByClassName\t( classNames: DOMString ): HTMLCollection Element"
+			],
+			[
+				"child",
+				"childElementCount\t: unsigned long Element"
+			],
+			[
+				"appen",
+				"appendChild\t( node: Node ): Node Node"
+			],
+			[
+				"crea",
+				"createElement\t( localName: DOMString ): Element Document"
+			],
+			[
+				"getEle",
+				"getElementById\t( elementId: DOMString ): Element Document"
+			],
+			[
+				"monBou",
+				"monBouton2"
+			],
+			[
+				"boutonCo",
+				"boutonColor"
+			],
+			[
+				"indexo",
+				"indexOf"
+			],
+			[
+				"tabCo",
+				"tabCodeNavette"
+			],
+			[
+				"round",
+				"rounded-bottom \tBootstrap 4 Class"
+			],
+			[
+				"bt",
+				"btn-success \tBootstrap 4 Class"
+			],
+			[
+				"flex",
+				"flex-row \tBootstrap 4 Class"
+			],
+			[
+				"d-md",
+				"d-md-flex \tBootstrap 4 Class"
+			],
+			[
+				"col-lg",
+				"col-lg-4 \tBootstrap 4 Class"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"justi",
+				"justify-content-center \tBootstrap 4 Class"
+			],
+			[
+				"p",
+				"p-2 \tBootstrap 4 Class"
+			],
+			[
+				"bg-d",
+				"bg-faded \tBootstrap 4 Class"
+			],
+			[
+				"chil",
+				"childNodes\t: NodeList Node"
+			],
+			[
+				"btn-success",
+				"btn-success \tBootstrap 4 Class"
+			],
+			[
+				"my-",
+				"my-1 \tBootstrap 4 Class"
+			],
+			[
+				"mr-",
+				"mr-5 \tBootstrap 4 Class"
+			],
+			[
+				"tabAlea",
+				"tabAleatoireBis"
+			],
+			[
+				"align-",
+				"align-content-center \tBootstrap 4 Class"
+			],
+			[
+				"col-",
+				"col-lg-7 \tBootstrap 4 Class"
+			],
+			[
+				"align-ite",
+				"align-items-center \tBootstrap 4 Class"
+			],
+			[
+				"eleme",
+				"elementToSupp"
+			],
+			[
+				"parent",
+				"parentNode\t(): Node TreeWalker"
+			],
+			[
+				"elemen",
+				"elementsAdded"
+			],
+			[
+				"remove",
+				"removeChild\t( child: Node ): Node Node"
+			],
+			[
+				"nomDe",
+				"nomDeClasse"
+			],
+			[
+				"getEl",
+				"getElementsByClassName\t( classNames: DOMString ): HTMLCollection Document"
+			],
+			[
+				"lg-",
+				"col-lg-7 \tBootstrap 4 Class"
+			],
+			[
+				"titre",
+				"titreChanged"
+			],
+			[
+				"chg",
+				"chgStyleOneElement"
+			],
+			[
+				"set",
+				"setTimeout\t( handler: any, timeout?: long, arguments_..: any ): long Window"
+			],
+			[
+				"text-prima",
+				"text-primary"
+			],
+			[
+				"class",
+				"classList\t: DOMTokenList Element"
+			],
+			[
+				"fontS",
+				"fontSize\t = '' Style CSS"
+			],
+			[
+				"fontSi",
+				"fontSize\t = 'x-large' Style CSS"
+			],
+			[
+				"fonts",
+				"fontSize\t = 'xx-large' Style CSS"
+			],
+			[
+				"monBout",
+				"monBouton1"
+			],
+			[
+				"ml",
+				"ml-2 \tBootstrap 4 Class"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"trouve",
+				"trouveMoyenne"
+			],
+			[
+				"leplu",
+				"leplusPetit"
+			],
+			[
+				"leplus",
+				"leplusGrand"
+			],
+			[
+				"mont",
+				"monTableau"
+			],
+			[
+				"indle",
+				"indleplusGrand"
+			],
+			[
+				"mon",
+				"monTableau"
+			],
+			[
+				"index",
+				"indexTableau"
+			],
+			[
+				"liste",
+				"listeNombrePremier"
+			],
+			[
+				"i",
+				"if\tJS - if"
+			],
+			[
+				"charc",
+				"fromCharCode\t( chars_..: int ): string String"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"getel",
+				"getElementById\t( elementId: DOMString ): Element Document"
+			],
+			[
+				"onlo",
+				"onload\t: EventHandler Window"
+			],
+			[
+				"gete",
+				"getElementById\t( elementId: DOMString ): Element Document"
+			],
+			[
+				"f",
+				"for\tJS - For loop"
+			],
+			[
+				"prenom",
+				"prenomFamille.length"
+			],
+			[
+				"mafon",
+				"maFonctionExo14"
+			],
+			[
+				"preno",
+				"prenomFamille"
+			],
+			[
+				"indic",
+				"indiceTableau"
+			],
+			[
+				"console",
+				"console_log"
+			],
+			[
+				"max",
+				"max\t( values_..: number ): number Math"
+			],
+			[
+				"conlo",
+				"console_log"
+			],
+			[
+				"casesco",
+				"casescochees"
+			],
+			[
+				"backg",
+				"backgroundColor\t = 'transparent' Style CSS"
+			],
+			[
+				"strin",
+				"stringScore"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 8916,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Questions",
+			"settings":
+			{
+				"buffer_size": 761,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"LiveReload: Enable/disable plugins",
+				"LiveReload: Enable/disable plug-ins"
+			]
+		],
+		"width": 540.0
+	},
+	"console":
+	{
+		"height": 370.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/javascript/20171006 - Quiz"
+	],
+	"file_history":
+	[
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/php/php20171025/index2.php",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/php/php20171025/files/jeuxdessai.csv",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/php/php20171025/index.html",
+		"/C/wamp64/bin/apache/apache2.4.27/bin/php.ini",
+		"/C/wamp64/logs/php_error.log",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/php/php20171024/index.php",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/php/php20171024/index2.php",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/php/php20171024/files/jeuxdessai.csv",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/javascript/20171025 - Tests Perso/index.html",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/javascript/20171025 - Tests Perso/js/script.js",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/javascript/DOSSIER TEMPLATE  VIDE (à copier)/index.html",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/javascript/20171013 - Mastermind/js20171013.html",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/javascript/20171013 - Mastermind/js/js20171013.js",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/javascript/20171012 - Events/js/js20171012.js",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/javascript/20171013 - Mastermind/test boutons.html",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/javascript/20171012 - Events/js20171012.html",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/javascript/20171013 - Mastermind/css/js20171013.css",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/javascript/20171017 - Objets & Liste de Courses/js/js20171017bis.js",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/javascript/20171017 - Objets & Liste de Courses/js/js20171017.js",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/jquery/20171019 - JQuery/js/jquery-3.2.1.slim.min.js",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/jquery/20171019 - JQuery/js/jq20171019.js",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/php/php20171024/js/script.js",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/php/php20171024/css/style.css",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/php/php20171024/files/ligues.csv",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/php/php20171024/files/ligues.txt",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/php/php20171023/index.php",
+		"/C/wamp64/bin/apache/apache2.4.27/conf/extra/httpd-vhosts.conf",
+		"/C/wamp64/logs/apache_error.log",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/php/php20171024/index.html",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/php/php20171023/css/style.css",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/php/php20171023/subtext20171023.sublime-project",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/html & css/html - 00_Initial/index.html",
+		"/C/wamp64/bin/apache/apache2.4.27/conf/httpd.conf",
+		"/C/wamp64/logs/access.log",
+		"/C/wamp64/wampmanager.ini",
+		"/C/wamp64/alias/phpmyadmin.conf",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/html & css/html - 01_Baobad Coffee/index.html",
+		"/C/wamp64/alias/adminer.conf",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/html & css/html - 00_Initial/css/style.css",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/html & css/TEST/Basic 88 Free HTML5 Template from OS Templates/basic-88/index.html",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/html & css/TEST/Basic 88 Free HTML5 Template from OS Templates/basic-88/styles/layout.css",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/html & css/TEST/html5up-twenty/index.html",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/html & css/TEST/html5up-twenty/assets/css/main.css",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES & EXERCICES/html & css/TEST/Twenty _ HTML5 UP.html",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES/javascript/js/js20171011.js",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES/javascript/js/js20171012.js",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES/javascript/js/js20171013.js",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES/javascript/js/js20171017.js",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES/jquery/jq20171019 template.html",
+		"/G/4.6.8/index.php",
+		"/G/4.6.8ssau3/4.6.8/index.php",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES/jquery/jq20171019.html",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES/jquery/js/jq20171019.js",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES/jquery/css/jq20171019.css",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES/javascript/css/js20171012.css",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/DEV WEB/TP1/index.html",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES/javascript/js20171013.html",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES/testgit/test git.txt",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES/testgit/javascript.js",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES/javascript/js20171017.html",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES/javascript/js20171017bis.html",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES/javascript/js/js20171017bis.js",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES/javascript/css/js20171017.css",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES/javascript/js20171012.html",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES/javascript/test.html",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES/javascript/css/js20171013.css",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES/javascript/js/script.js",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES/javascript/js/js20171010.js",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES/javascript/TP-JS-QUIZ/js/script.js",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES/javascript/js20171010.html",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES/javascript/js20171011.html",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES/javascript/TP-JS-DIVERS-2/index.html",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES/javascript/TP-JS-DIVERS-2/js20171011.html",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES/javascript/TP-JS-DIVERS-2/js/script.js",
+		"/C/Users/UTILISATEUR/AppData/Roaming/Sublime Text 3/Packages/JavaScript Completions/JavaScript-Completions.sublime-settings",
+		"/C/Users/UTILISATEUR/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+		"/C/Users/UTILISATEUR/AppData/Roaming/Sublime Text 3/Packages/User/Base File.sublime-settings",
+		"/C/Users/UTILISATEUR/AppData/Roaming/Sublime Text 3/Packages/Alignment/Base File.sublime-settings",
+		"/C/Users/UTILISATEUR/AppData/Roaming/Sublime Text 3/Packages/LiveReload/LiveReload.sublime-settings",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES/javascript/TP-JS-DIVERS-2/css/style.css",
+		"/C/Users/UTILISATEUR/AppData/Roaming/Sublime Text 3/Packages/User/LiveReload.sublime-settings",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES/javascript/TP-JS-DIVERS/js/script.js",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES/javascript/index.html",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES/javascript/TP-JS-DIVERS/index.html",
+		"/C/Users/UTILISATEUR/AppData/Roaming/Sublime Text 3/Packages/Browser Refresh/Default (Windows).sublime-keymap",
+		"/C/Users/UTILISATEUR/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES/javascript/TP-JS-QUIZ/css/style.css",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES/javascript/TP-JS-QUIZ/quiz.html",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES/javascript/Quiz/js/script.js",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES/javascript/Quiz/quiz.html",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES/javascript/Quiz/css/style.css",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES/devwebtest/test6.html",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES/devwebtest/style6.css",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES/devwebtest/test5.html",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES/javascript/Quiz/Questions",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES/devwebtest/TP1/css/styletp1.css",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/SITES/devwebtest/TP1/tp1.html",
+		"/C/wamp64/www/javascript/js/script.js",
+		"/C/wamp64/www/javascript/index.html",
+		"/C/Users/UTILISATEUR/Desktop/test.js",
+		"/C/Users/UTILISATEUR/AppData/Roaming/Sublime Text 3/Packages/Emmet/Default (Windows).sublime-keymap",
+		"/C/Users/UTILISATEUR/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+		"/C/wamp64/www/devwebtest/index.html",
+		"/C/wamp64/www/devwebtest/test1.html",
+		"/C/wamp64/www/devwebtest/TP1/tp1.html",
+		"/C/wamp64/www/devwebtest/toto.html",
+		"/C/wamp64/www/devwebtest/TP2/index.html",
+		"/C/wamp64/www/devwebtest/TP2/css/style.css",
+		"/C/wamp64/www/devwebtest/TP1/css/styletp1.css",
+		"/C/wamp64/www/devwebtest/TP2/css/script.css",
+		"/C/wamp64/www/devwebtest/TP2/TP2.sublime-project",
+		"/C/wamp64/www/devwebtest/TP1/jamielee.sublime-project",
+		"/C/wamp64/www/devwebtest/TP1/polices.html",
+		"/C/wamp64/www/devwebtest/TP1/styletp1.css",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/DEV WEB/TP1/polices.html",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/DEV WEB/html_template.html",
+		"/C/Users/UTILISATEUR/Documents/AFORMAC - DLEGER/FATAL ERROR 2017/Présentations/Présentation Lucie/Exercice1/exercice1.html",
+		"/C/Users/UTILISATEUR/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/UTILISATEUR/Desktop/CDM_20171003115437.txt",
+		"/C/Users/UTILISATEUR/Desktop/CDM_20171003121944.txt",
+		"/C/wamp64/www/javascript/javascript-web-gh-pages/chapitre_6/html/cours.html",
+		"/C/wamp64/www/javascript/javascript-web-gh-pages/chapitre_7/html/cours.html",
+		"/C/wamp64/www/javascript/javascript-web-gh-pages/chapitre_8/html/cours.html",
+		"/C/wamp64/www/javascript/javascript-web-gh-pages/chapitre_9/html/cours.html",
+		"/C/wamp64/www/javascript/javascript-web-gh-pages/README.md",
+		"/C/wamp64/www/devwebtest/test2.html",
+		"/C/wamp64/www/devwebtest/style4.css",
+		"/C/wamp64/www/devwebtest/test4.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"NOTICE",
+			"classe",
+			"myFile",
+			"varEffectif",
+			"nameOfFile",
+			"varEffectif",
+			"elemOfTab",
+			"$varEffectif",
+			"myFile",
+			"varClasse",
+			"lineOfTab",
+			"myfile",
+			"nomDuFichier",
+			"value",
+			"chaine",
+			"key",
+			"monNewElement",
+			"elementsAdded",
+			"flagWinLoose",
+			"nbrTours",
+			"tabCodeNavette",
+			"info",
+			"wamp_projet",
+			"proje",
+			"wamp",
+			"span",
+			"div"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8916,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Questions",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 761,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 51.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 132.0
+	},
+	"pinned_build_system": "",
+	"project": "js20171006.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 238.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}
